@@ -53,9 +53,10 @@ To run this project, follow these steps:
    ```bash
    cd StrokeDetection
    ```
-3. Install the necessary dependencies (Python 3.7+ is recommended):
+3. Navigate to the code directory and run the main.py:
    ```bash
-   cd StrokeDetection
+   cd code
+   python3 main.py
    ```
 
 ## Usage
